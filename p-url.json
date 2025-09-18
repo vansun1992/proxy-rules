@@ -2,6 +2,7 @@
   "version": 2,
   "rules": [
     {
+      "type": "domain_suffix",
       "domain_suffix": [
         "momot.rs",
         "rdl.ink"

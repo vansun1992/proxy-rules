@@ -3,7 +3,8 @@
   "rules": [
     {
       "domain_suffix": [
-        "momot.rs"
+        "momot.rs",
+        "rdl.ink"
       ]
     }
   ]

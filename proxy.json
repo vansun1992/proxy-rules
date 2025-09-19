@@ -2,12 +2,12 @@
   "version": 2,
   "rules": [
     {
-      "domain_suffix": [
-        "momot.rs",
-        "rdl.ink",
-        "githubusercontent.com",
-        "ahhhhfs.com",
-        "fireside.fm"
+      "domain_keyword": [
+        "momot",
+        "rdl",
+        "github",
+        "ahhhhfs",
+        "fireside"
       ]
     }
   ]

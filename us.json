@@ -2,9 +2,9 @@
   "version": 2,
   "rules": [
     {
-      "domain_suffix": [
-        "google.com",
-        "perplexity.ai"
+      "domain_keyword": [
+        "google",
+        "perplexity"
       ]
     }
   ]

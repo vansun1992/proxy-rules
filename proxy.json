@@ -13,8 +13,10 @@
         "grok",
         "momot",
         "namecheap",
+        "paypal",
         "raindrop",
-        "rdl"
+        "rdl",
+        "stripe"
       ]
     }
   ]

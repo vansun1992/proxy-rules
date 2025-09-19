@@ -5,6 +5,11 @@
       "domain_keyword": [
         "google",
         "perplexity"
+      ],
+      "type": "domain_keyword",
+      "payload": [
+        "amazon",
+        "reddit"
       ]
     }
   ]

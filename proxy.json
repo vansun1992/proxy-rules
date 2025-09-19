@@ -3,11 +3,16 @@
   "rules": [
     {
       "domain_keyword": [
-        "momot",
-        "rdl",
-        "github",
         "ahhhhfs",
-        "fireside"
+        "aibase",
+        "annas",
+        "cloudfunctions",
+        "fireside",
+        "github",
+        "grok",
+        "momot",
+        "raindrop",
+        "rdl"
       ]
     }
   ]

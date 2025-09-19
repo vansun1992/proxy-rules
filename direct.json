@@ -2,16 +2,11 @@
   "version": 2,
   "rules": [
     {
-      "domain_suffix": [
-        "36dianping.com",
-        "36kr.com",
-        "36krcdn.com",
-        "36krcnd.com",
-        "dida365.com",
-        "xinquji.com",
-        "fatecore.com",
-        "aliapp.org",
-        "alicdn.com"
+      "domain_keyword": [
+        "dida365",
+        "xinquji",
+        "fatecore",
+        "ali"
       ]
     }
   ]

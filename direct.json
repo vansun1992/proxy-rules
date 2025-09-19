@@ -3,10 +3,11 @@
   "rules": [
     {
       "domain_keyword": [
+        "ali",
+        "bilibili",
         "dida365",
-        "xinquji",
         "fatecore",
-        "ali"
+        "xinquji"
       ]
     }
   ]

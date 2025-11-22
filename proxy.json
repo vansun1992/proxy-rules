@@ -18,7 +18,8 @@
         "paypal",
         "raindrop",
         "rdl",
-        "stripe"
+        "stripe",
+        "temu"
       ]
     }
   ]
